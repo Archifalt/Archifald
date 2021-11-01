@@ -48,6 +48,7 @@ body {
   
   .hero-image {
     margin-bottom: 620px;
+    margin-left: 80px;
   }
   
   .hero-image .container {
@@ -63,7 +64,7 @@ body {
     font-weight: 400;
   }
   
-  .hero-image  {
+  .hero-image p {
     margin:10px 3px 30px 5px;
     
   }
