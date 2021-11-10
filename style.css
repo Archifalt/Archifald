@@ -57,7 +57,7 @@ body {
   }
   
   .heading {
-    margin: auto;
+    margin: 0 50 30px;
     font-family: "Old Standard TT", "Times", "Times New Roman", serif;
     font-size: 88px;
     line-height: 96px;
