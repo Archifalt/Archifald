@@ -57,7 +57,7 @@ body {
   }
   
   .heading {
-    margin: 0 50 30px;
+    margin: 10px 5px 5px 300px;
     font-family: "Old Standard TT", "Times", "Times New Roman", serif;
     font-size: 88px;
     line-height: 96px;
@@ -65,7 +65,7 @@ body {
   }
   
   .hero-image p {
-    margin:10px 3px 30px 5px;
+    margin:15px 90px 10px 320px;
     
   }
   
