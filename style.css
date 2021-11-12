@@ -56,13 +56,13 @@ body {
 }
 
 .heading {
-  margin: 0 0 24px;
+  margin: 80px;
   font-size: 80px;
   line-height: 96px;
 }
 
 .hero-image p {
-  margin: 0;
+  margin: 90px;
   font-size: 32px;
   line-height: 48px;
 }
